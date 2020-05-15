@@ -1,0 +1,4 @@
+com\baeldung\spring\cloud\eureka\client\auth\SimpleFilter.class
+com\baeldung\spring\cloud\eureka\client\auth\AuthenticationService.class
+com\baeldung\spring\cloud\eureka\client\ZuulConfig.class
+com\baeldung\spring\cloud\eureka\client\auth\EncriptDecriptUtil.class
